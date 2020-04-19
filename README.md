@@ -6,10 +6,11 @@ it's just another app that i made for fun. it's connected to KITSU API: https://
 
 I'm still learning about flutter.
 
-![alt text]https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img1.png?raw=true)
-![alt text]https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img2.png?raw=true)
-![alt text]https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img3.png?raw=true)
-![alt text]https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img4.png?raw=true)
+<img src="https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img1.png?raw=true" width="200">
+<img src="https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img2.png?raw=true" width="200">
+<img src="https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img3.png?raw=true" width="200">
+<img src="https://github.com/yomergonzalez/anime_app/blob/master/screenshots/img4.png?raw=true" width="200">
+
 
 
 
